@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="auth_title">Привет! Введи код сотрудника</string>
+    <string name="auth_label">Код</string>
+    <string name="auth_sign_in">Войти</string>
+
+    <string name="main_refresh">Обновить</string>
+    <string name="main_logout">Выйти</string>
+    <string name="main_add">Взять</string>
+    <string name="main_empty">У тебя ничего нет на руках</string>
+    <string name="main_until">до %s</string>
+
+    <string name="take_title">Взять оборудование</string>
+    <string name="take_back">Назад</string>
+    <string name="take_confirm">Взять</string>
+    <string name="take_empty">Свободного оборудования нет</string>
+    <string name="take_return_date">Вернуть до</string>
+</resources>
