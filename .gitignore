@@ -1,5 +1,16 @@
-/.idea
-/.gradle
-/build
-/local.properties
-/.kotlin
+# Gradle
+.gradle/
+build/
+**/build/
+.kotlin/
+
+# Local machine configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Generated APK/AAB
+*.apk
+*.aab

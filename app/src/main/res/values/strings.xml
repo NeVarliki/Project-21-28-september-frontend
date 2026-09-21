@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Storage</string>
-    <string name="title_activity_root">RootActivity</string>
     <string name="auth_title">Привет! Введи код сотрудника</string>
     <string name="auth_label">Код</string>
     <string name="auth_sign_in">Войти</string>
