@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Storage</string>
-    <string name="auth_title">Привет! Введи код сотрудника</string>
-    <string name="auth_label">Код</string>
+    <string name="auth_title">Добро пожаловать!</string>
+    <string name="auth_title2">Войдем в аккаунт?</string>
+    <string name="auth_label">Логин</string>
+    <string name="auth_label2warn">Это поле должно быть заполненным!</string>
+    <string name="auth_label2">Пароль</string>
     <string name="auth_sign_in">Войти</string>
 
     <string name="main_refresh">Обновить</string>

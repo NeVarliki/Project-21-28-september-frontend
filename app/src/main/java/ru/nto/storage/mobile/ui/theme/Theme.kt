@@ -56,6 +56,8 @@ fun StorageTheme(
     val colorScheme = lightColorScheme(
         primary = colorResource(R.color.primary),
         onPrimary = colorResource(R.color.on_primary),
+        primaryContainer = colorResource(R.color.primary_container),
+        onPrimaryContainer = colorResource(R.color.on_primary_container),
         secondary = colorResource(R.color.secondary),
         onSecondary = colorResource(R.color.on_secondary),
         background = colorResource(R.color.background),
